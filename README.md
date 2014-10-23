@@ -1,4 +1,4 @@
 Scratch
 =======
 
-Scratch repo for experimentaion
+Scratch repository for experimentation
